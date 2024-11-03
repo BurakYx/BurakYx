@@ -33,8 +33,8 @@ Merhaba! Ben Burak, teknolojiye meraklı bir geliştiriciyim. Yazılım, algorit
 ### [Yeni Başlayanlar İçin Örnek Site Express Node.js Kullanımı ](https://github.com/BurakYx/FilmSitesi)
 **Kısa Açıklama:** Bu proje, kullanıcıların film önerileri alabileceği, haftalık ve günlük trend filmleri görüntüleyebileceği bir web uygulamasıdır.
 
-### [Proje Adı 2](https://github.com/kullaniciadi/proje2)
-**Kısa Açıklama:** Bu projeyi kısaca tanıtın. Amacınız veya nasıl kullanıldığı hakkında bilgi verin.
+### [Linter](https://github.com/BurakYx/Linter)
+**Kısa Açıklama:** Farklı diller için kod stilini düzenleyen, kuralları ayarlayarak kodu temizleyen bir araç.
 
 ---
 
